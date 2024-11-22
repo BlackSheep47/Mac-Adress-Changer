@@ -39,4 +39,7 @@ This Python script allows users to easily change the MAC (Media Access Control) 
 
 ![2024-11-20 21_25_28-Mac-add-changer - File Explorer](https://github.com/user-attachments/assets/0f49ae06-5533-49ac-9922-fadc87bca6c3)
 
+> [!NOTE]
+> Python installed in your system any version 2 or 3
+
 
