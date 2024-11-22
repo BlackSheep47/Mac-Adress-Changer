@@ -1,5 +1,5 @@
 <h1 align="center">Mac Address Changer</h1><br>
-This Python script allows users to easily change the MAC (Media Access Control) address of their network interface. Changing a MAC address can be useful for a variety of reasons, including ensuring privacy, avoiding network restrictions, or performing network troubleshooting and testing.
+This Python script allows users to easily change the MAC (Media Access Control) address of their network interface. Changing a MAC address can be useful for a variety of reasons, including ensuring privacy, avoiding network restrictions, or performing network troubleshooting and testing.<br>
 <br>
 <div align="center">
 
