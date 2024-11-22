@@ -22,12 +22,11 @@ This Python script allows users to easily change the MAC (Media Access Control) 
 
 <h2>Use</h2>
 
-```
-git clone 
+`git clone https://github.com/BlackSheep47/Mac-Adress-Changer.git` <br>
 
+`cd Mac-Adress-Changer`<br>
 
-
-```
+`python3 mac-changer.py -h`<br>
 
 <h2>Requirements</h2>
 
